@@ -1,0 +1,12 @@
+body{
+    background-image: url(rose.jpg);
+}
+h1
+{
+    text-transform: uppercase;
+    letter-spacing: 2px ;
+    font-size:40px ;
+    color: red;
+    text-shadow: 5px 0 0 blue;
+    text-align: center;
+}
